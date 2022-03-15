@@ -1,0 +1,6 @@
+{ "shiba": {"url": "http://shibe.online/api/shibes", "key": 0},
+  "cat": {"url": "http://shibe.online/api/cats", "key": 0},
+  "bird": {"url": "http://shibe.online/api/birds", "key": 0},
+  "fox": {"url": "https://randomfox.ca/floof/?ref=apilist.fun", "key": "image"},
+  "dog": {"url": "https://dog.ceo/api/breeds/image/random", "key": "message"},
+  "panda": {"url": "https://some-random-api.ml/img/panda", "key": "link"} }

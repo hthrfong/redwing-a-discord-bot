@@ -1,0 +1,11 @@
+py-cord==2.0.0b1
+aiohttp==3.7.4.post0
+apscheduler
+requests==2.25.1
+bs4
+lxml==4.6.3
+tinify==1.5.1
+praw==7.5.0
+dateutils==0.6.12
+gensim==4.0.1
+numpy==1.22.0

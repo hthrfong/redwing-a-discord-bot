@@ -1,0 +1,24 @@
+{
+  "greet": [
+    "hello", "hi", "hiya", "hey", "heyo", "howdy", "greetings", "hullo", "heya",
+    "good morning", "good afternoon", "good evening", "good night", "sup", "bye",
+    "ciao", "guten morgen", "hemlo",
+    "bonjour", "konnichiwa", "こんにちは", "今日は", "hej", "hallå", "god morgon", "henlo",
+    "buongiorno"
+  ],
+  "christmas": [
+    "happy christmas", "merry christmas", "happy xmas", "merry xmas",
+    "feliz navidad", "joyeux noel", "joyeux noël", "buon natale",
+    "prettige kerstdagen", "圣诞节快乐", "聖誕節快樂",
+    "frohe weihnachten", "god jul", "メリークリスマス"
+  ],
+  "hanukkah": [
+    "happy hanukkah", "happy chanukah"
+  ],
+  "holiday": [
+    "happy holidays", "happy new year", "gott nytt år", "god fortsättning",
+    "felices fiestas", "joyeuses fêtes", "prettige feestdagen",
+    "buone feste", "frohe feiertage", "gelukkig nieuwjaar", "bonne année",
+    "feliz año nuevo", "buon anno", "bonne annee"
+  ]
+}

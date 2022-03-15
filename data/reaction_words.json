@@ -1,0 +1,13 @@
+{
+  "happy": [
+    "thanks", "thank you", "ty", "thnx", "thx", "love you", "love u", "♥", "❤", "😍", "the best",
+    "good boy", "good boi", "good job", "love", "wonderful", "great", "cute", "cool", "awesome",
+    "well done", "amazing", "adorable", "excellent", "aw", "aww", "awww",
+    "arigato", "arigatou", "ありがとう", "ありがと", "あざす", "merci", "danke"
+  ],
+  "sad": [
+    "hate", "go away", "the worst", "bad redwing", "fkn", "annoying", "prick", "shit", "jerk"],
+  "shock": [
+    "gdi", "wtf", "damn it", "dammit", "damnit", "wow", "omg", "stop"
+  ]
+}
