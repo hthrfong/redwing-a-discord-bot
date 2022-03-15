@@ -26,7 +26,5 @@
   "morality_death": ["... know how you'll die?", "... know how ten random strangers will die?",
     "... know how your friend will die?", "... know how a heroic public figure will die?", "... know how a villainous public figure will die?",
     "... know how your enemy will die?"],
-  "morality_end": ["... end hunger?", "... end hatred?", "... end war?", "... end sickness?"],
-  "character": ["... be [character]?", "... be friends with [character]?", "... fight [character]?", "... have [character]'s abilities/skills?",
-    "... have [character]'s origin story?", "... be hunted by [character]?"]
+  "morality_end": ["... end hunger?", "... end hatred?", "... end war?", "... end sickness?"]
 }
