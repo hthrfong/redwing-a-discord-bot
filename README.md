@@ -6,7 +6,7 @@ Redwing is a friendly, casual bot who will brighten your server with random and 
 * Automatically send a Marvel-themed message to welcome new members
 * Automatically convert temperatures in chat
 * Automatically react to greetings and messages that mention it
-* Search Marvel Comics API and output results in a nice embed
+* Search Marvel Comics API and output results in an easy-to-read embed
 * Send cute animal pictures, food pictures, random jokes
 * Create reaction polls
 * Roll dice
