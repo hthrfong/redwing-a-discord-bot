@@ -2,7 +2,7 @@
 
 Redwing is a friendly, casual bot who will brighten your server with random and Marvel-related fun. It uses the PyCord API wrapper and utilizes slash commands.
 
-Things Redwing can do:
+## Things Redwing can do:
 * Automatically send a Marvel-themed message to welcome new members
 * Automatically convert temperatures in chat
 * Automatically react to greetings and messages that mention it
