@@ -1,1 +1,3 @@
-# redwing-a-discord-bot
+# Redwing, a Discord bot
+
+Redwing is a friendly, casual bot who will brighten your server. 
